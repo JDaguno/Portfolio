@@ -513,6 +513,7 @@ p {
   height: 400px;
   -o-object-fit: cover;
   object-fit: cover;
+  transform: scaleX(-1);
 }
 
 #about .about-descr .p-heading {
