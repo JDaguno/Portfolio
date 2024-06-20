@@ -610,6 +610,7 @@ p {
 }
 #portfolio .portfolio-item {
   margin-bottom: 30px;
+  position: relative;
 }
 #portfolio .portfolio-item .portfolio-info {
   opacity: 0;
