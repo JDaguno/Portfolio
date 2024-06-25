@@ -850,6 +850,13 @@ text-shadow: 2px 2px 4px #272727;
   animation: animate-loading 1s linear infinite;
 }
 
+.contact-message{
+  font-size: larger;
+  font-weight: 700;
+  color: rgb(255, 0, 0);
+  text-shadow: 2px 2px 3px rgb(0, 0, 0);
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
